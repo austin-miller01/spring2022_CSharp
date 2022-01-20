@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "project1_ajm19x/1.0.0": {
+        "runtime": {
+          "project1_ajm19x.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project1_ajm19x/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
