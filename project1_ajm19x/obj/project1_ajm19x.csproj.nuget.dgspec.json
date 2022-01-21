@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/austi/Documents/Spring2022/CIS4930/project1_ajm19x/project1_ajm19x.csproj": {}
+    "/Users/austi/Documents/Spring2022/CIS4930/spring2022_CSharp/project1_ajm19x/project1_ajm19x.csproj": {}
   },
   "projects": {
-    "/Users/austi/Documents/Spring2022/CIS4930/project1_ajm19x/project1_ajm19x.csproj": {
+    "/Users/austi/Documents/Spring2022/CIS4930/spring2022_CSharp/project1_ajm19x/project1_ajm19x.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/austi/Documents/Spring2022/CIS4930/project1_ajm19x/project1_ajm19x.csproj",
+        "projectUniqueName": "/Users/austi/Documents/Spring2022/CIS4930/spring2022_CSharp/project1_ajm19x/project1_ajm19x.csproj",
         "projectName": "project1_ajm19x",
-        "projectPath": "/Users/austi/Documents/Spring2022/CIS4930/project1_ajm19x/project1_ajm19x.csproj",
+        "projectPath": "/Users/austi/Documents/Spring2022/CIS4930/spring2022_CSharp/project1_ajm19x/project1_ajm19x.csproj",
         "packagesPath": "/Users/austi/.nuget/packages/",
-        "outputPath": "/Users/austi/Documents/Spring2022/CIS4930/project1_ajm19x/obj/",
+        "outputPath": "/Users/austi/Documents/Spring2022/CIS4930/spring2022_CSharp/project1_ajm19x/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/austi/.config/NuGet/NuGet.Config"
